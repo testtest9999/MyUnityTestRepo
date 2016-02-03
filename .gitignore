@@ -5,6 +5,10 @@
 [Oo]bj/ 
 [Bb]uild 
 [Ll]ibrary/ 
+Temp/
+Obj/
+Build/
+Library/
 sysinfo.txt 
 # ===================================== # 
 # Visual Studio / MonoDevelop generated # 
@@ -28,3 +32,4 @@ sysinfo.txt
 Icon? 
 ehthumbs.db 
 [Tt]humbs.db
+Library/assetDatabase3

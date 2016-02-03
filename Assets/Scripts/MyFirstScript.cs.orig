@@ -19,6 +19,10 @@ public class MyFirstScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+<<<<<<< HEAD
+        transform.position += Vector3.down;
+=======
         transform.position += Vector3.forward;
+>>>>>>> c5faaf6fee347576794ed5cfad45376e38d5b45e
     }
 }
